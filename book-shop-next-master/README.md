@@ -18,5 +18,10 @@
 
 В приложении работает корзина для авторизованного пользователя, в которую можно добавлять книги (максимальное количество — 3 балла).
 
+1. npm install @reduxjs/toolkit react-redux
+2. npm install redux-persist @types/redux-persist
+3. npm run build
+4. npm run start
+
 
 + Деплой проекта на Vercel
